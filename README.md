@@ -1,130 +1,18 @@
-![In a galaxy far, far away... I'm Code Wolf Byte!](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
 
-## 🌌 Greetings, Jedi! I am @code-wolf-byte from the Galactic Republic of Code! 🌌
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=code-wolf-byte&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=code-wolf-byte&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=code-wolf-byte&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🌠 Exploring the vast universe of **Full Stack Development**.
-- 🚀 On a quest to master the ancient scrolls of **Systems Designs**.
-- 🌟 Join forces with me on the 'open source macropad' mission!
-- 📡 Reach out via the intergalactic communicator: [contact@tanayupreti.dev](mailto:contact@tanayupreti.dev)
-- 🛸 Discover my secret base: [server-cloner](https://github.com/code-wolf-byte/server-cloner)
-- 🌍 For more galactic adventures, hyperjump to: [tanayupreti.dev](https://www.tanayupreti.dev/)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=code-wolf-byte&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-#### Trained at the Jedi Code Academy, my lightsaber symbolizes my dedication to coding. Behold the knowledge I've acquired:
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<details>
-  <summary>🐍 Python: The Force of Simplicity</summary>
-  
-  - Python, the language of the Jedi, brings simplicity and power to the galaxy.
-  - Used in various star systems for web development, data analysis, and more.
-  
-  ![Python Force](https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif)
-  
-</details>
+---
+[![](https://visitcount.itsvg.in/api?id=code-wolf-byte&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<details>
-  <summary>☕ Java: The Universal Code</summary>
-  
-  - Java, the ancient language known across galaxies, powers interstellar applications.
-  - Its portability ensures it runs on any planet with a JVM.
-  
-  ![Java Universe](https://media.giphy.com/media/xTiTnoHt2NwerFMsCI/giphy.gif)
-  
-</details>
-
-<details>
-  <summary>🌍 Node.js: The Event-Driven Planet</summary>
-  
-  - Node.js, powering real-time applications across the galaxy.
-  - The force behind many interstellar web services.
-  
-  ![Node.js Planet](https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif)
-  
-</details>
-
-<details>
-  <summary>🚀 Rust: The Unbreakable Metal</summary>
-  
-  - Rust, the language known for its safety and concurrency.
-  - A favorite among starship engineers for its performance.
-  
-  ![Rust Metal](https://media.giphy.com/media/l0Iyau7QcKtKUYIda/giphy.gif)
-  
-</details>
-
-<details>
-  <summary>🔍 C: The Core of the Galaxy</summary>
-  
-  - C, the foundational language, is the building block of many star systems.
-  - Known for its performance and close ties to machine operations.
-  
-  ![C Core](https://media.giphy.com/media/3oEjI6hkw6nbYNQkz6/giphy.gif)
-  
-</details>
-
-<details>
-  <summary>🌌 GIT: The Galactic Version Control</summary>
-  
-  - GIT, the guardian of code history, ensures every change is recorded in the holocron.
-  - A must-have tool for every Jedi coder.
-  
-  ![GIT Galaxy](https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif)
-  
-</details>
-
-<details>
-  <summary>🤖 ML: The Droids We're Looking For</summary>
-  
-  - Machine Learning, training droids to think and act.
-  - The future of the galaxy lies in the hands of intelligent machines.
-  
-  ![ML Droids](https://media.giphy.com/media/181OUQHOCfde0/giphy.gif)
-  
-</details>
-
-<details>
-  <summary>🌠 AI: The Galactic Intelligence</summary>
-  
-  - Artificial Intelligence, the force that guides starships and civilizations.
-  - From protocol droids to strategic algorithms, AI is the future.
-  
-  ![AI Stars](https://media.giphy.com/media/LJQQhnnXpSHBmzYHQ1/giphy.gif)
-  
-</details>
-
-<details>
-  <summary>👁️ Computer Vision: Seeing the Unseen</summary>
-  
-  - Computer Vision, enabling droids and starships to perceive the galaxy.
-  - From facial recognition to analyzing star patterns, vision is key.
-  
-  ![Computer Vision](https://media.giphy.com/media/l378bFG2RkMIAKDW8/giphy.gif)
-  
-</details>
-
-<details>
-  <summary>🔧 Backend Development: The Starship Engine Room</summary>
-  
-  - Backend Development, the heart of every interstellar web application.
-  - Powering the logic, databases, and server-side operations.
-  
-  ![Backend Stars](https://media.giphy.com/media/26Ff5evMweBsENWqk/giphy.gif)
-
-</details>
-  
-  
-<details>
-  <summary>🌌 Django & Flask: The Twin Moons of Web Frameworks</summary>
-  
-  - Django, the heavyweight moon, is known for its "batteries-included" approach.
-  - Flask, the lightweight moon, offering flexibility and simplicity.
-  
-  ![Django & Flask Moons](https://media.giphy.com/media/26Ff5evMweBsENWqk/giphy.gif)
-  
-</details>
-
-# May the Code be with you!
-
-<!---
-code-wolf-byte/code-wolf-byte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
