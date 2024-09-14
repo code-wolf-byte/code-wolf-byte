@@ -1,10 +1,3 @@
-# 💫 About Me:
-# Welcome to my GitHub Profile!<br><be>
-## About Me<br>Hello there! I'm Tanay Upreti, a Computer Science student at Arizona State University. When I'm not buried in code or tinkering with the latest tech, you can find me exploring new ways to merge innovation with everyday life. I thrive on challenges and love pushing the boundaries of what's possible.<br><br>My journey in the tech world has been anything but conventional – from developing secure applications for top social platforms to creating custom solutions for diverse clients. Every project I tackle is a new adventure, a chance to learn something new and make a real impact.<br><be>
-## Tech Interests<br>- 👀 **Interests**: Full Stack Development<br>- 🌱 **Currently Learning**: Systems Design<br>- 💞️ **Looking to Collaborate On**: Open Source Macropad<br><be>
-## Projects<br>One of my favorite projects is the [web-server](https://github.com/code-wolf-byte/web-server), where I delve into creating efficient and secure server setups.<br><be>
-## Contact Me<br>If you have a fun project to work on or just want to say hi, feel free to reach out. I'm always up for a good chat!<br><br>- **Email**: [contact@tanayupreti.dev](mailto:contact@tanayupreti.dev)<br>- **Website**: [tanayupreti.dev](https://www.tanayupreti.dev/)<br>
-
 
 
 # 📊 GitHub Stats:
