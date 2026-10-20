@@ -2,6 +2,8 @@
 
 CS student at Arizona State University. I mostly write **Rust** and **Python**: systems tools, self-hosting infra, and Discord bots for the Devil2Devil community. Currently working on a native Wallpaper Engine client for Linux.
 
+🌐 [tanayupreti.dev](https://tanayupreti.dev)
+
 # 🚀 Projects:
 - [**open-wallpaper-engine**](https://github.com/code-wolf-byte/open-wallpaper-engine) – Wallpaper Engine client for unix-like operating systems (Rust)
 - [**forklift**](https://github.com/code-wolf-byte/forklift) – Iteration 2.0 of Forkman, now with SSO (Python)
