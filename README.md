@@ -1,4 +1,13 @@
+# 👋 Hi, I'm Tanay
 
+CS student at Arizona State University. I mostly write **Rust** and **Python**: systems tools, self-hosting infra, and Discord bots for the Devil2Devil community. Currently working on a native Wallpaper Engine client for Linux.
+
+# 🚀 Projects:
+- [**open-wallpaper-engine**](https://github.com/code-wolf-byte/open-wallpaper-engine) – Wallpaper Engine client for unix-like operating systems (Rust)
+- [**forklift**](https://github.com/code-wolf-byte/forklift) – Iteration 2.0 of Forkman, now with SSO (Python)
+- [**linux-config**](https://github.com/code-wolf-byte/linux-config) – My machine configs for quick setup (Lua)
+- [**reverse-proxy-server**](https://github.com/code-wolf-byte/reverse-proxy-server) – Host multiple apps on a single VPS (Rust)
+- [**Devil2DevilEconomy**](https://github.com/code-wolf-byte/Devil2DevilEconomy) – Economy bot for the Devil2Devil Discord (JavaScript)
 
 # 📊 GitHub Stats:
 <div align="center">
@@ -49,8 +58,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/knockout/knockout-plain-wordmark.svg" height="40" alt="knockout logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
@@ -63,11 +70,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-original.svg" height="40" alt="rubymine logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="40" alt="archlinux logo"  />
 </div>
 
 ###
